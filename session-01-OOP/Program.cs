@@ -6,9 +6,12 @@
         {
             #region q1
 
-            //the copy value will modified but the original variable not modified
+            //a- the copy value will modify but the original variable not modified
+
+            //b- the copy value will modify and the original variable will modify
             #endregion
 
+          
 
         }
     }
